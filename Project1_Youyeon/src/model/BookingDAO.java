@@ -20,6 +20,7 @@ public class BookingDAO {
 	PreparedStatement st =null;
 	ResultSet rs =null;
 	//test 주석
+	//test2 주석
 	
 
 	//예약 -1.테이블 추가 2.탑승인원 증가(update ,trigger)
